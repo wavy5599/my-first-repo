@@ -47,8 +47,6 @@ ul li:nth-child(2) {
   background: #76ff03;
   box-shadow: 0 0 50px #76ff03;
 }
-
-
 ul li:nth-child(3) {
   animation-delay: -1s;
   background: #f06292;
